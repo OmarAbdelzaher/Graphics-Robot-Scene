@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Dr.Ahmed/Desktop/Graphics/Final_Project/glm.cpp" "C:/Users/Dr.Ahmed/Desktop/Graphics/Final_Project/CMakeFiles/main.dir/glm.cpp.obj"
-  "C:/Users/Dr.Ahmed/Desktop/Graphics/Final_Project/imageloader.cpp" "C:/Users/Dr.Ahmed/Desktop/Graphics/Final_Project/CMakeFiles/main.dir/imageloader.cpp.obj"
-  "C:/Users/Dr.Ahmed/Desktop/Graphics/Final_Project/main.cpp" "C:/Users/Dr.Ahmed/Desktop/Graphics/Final_Project/CMakeFiles/main.dir/main.cpp.obj"
+  "D:/BIOMEDICAL ENGINEERING/3rd/2nd semester/graphics/Graphics-Final_Project/glm.cpp" "D:/BIOMEDICAL ENGINEERING/3rd/2nd semester/graphics/Graphics-Final_Project/CMakeFiles/main.dir/glm.cpp.obj"
+  "D:/BIOMEDICAL ENGINEERING/3rd/2nd semester/graphics/Graphics-Final_Project/imageloader.cpp" "D:/BIOMEDICAL ENGINEERING/3rd/2nd semester/graphics/Graphics-Final_Project/CMakeFiles/main.dir/imageloader.cpp.obj"
+  "D:/BIOMEDICAL ENGINEERING/3rd/2nd semester/graphics/Graphics-Final_Project/main.cpp" "D:/BIOMEDICAL ENGINEERING/3rd/2nd semester/graphics/Graphics-Final_Project/CMakeFiles/main.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

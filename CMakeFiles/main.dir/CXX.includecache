@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Dr.Ahmed/Desktop/Graphics/Final_Project/glm.h
+D:/BIOMEDICAL ENGINEERING/3rd/2nd semester/graphics/Graphics-Final_Project/glm.h
 GLUT/glut.h
 -
 GL/glut.h
 -
 
-C:/Users/Dr.Ahmed/Desktop/Graphics/Final_Project/imageloader.h
+D:/BIOMEDICAL ENGINEERING/3rd/2nd semester/graphics/Graphics-Final_Project/imageloader.h
 windows.h
 -
 GLUT/glut.h
@@ -32,7 +32,7 @@ assert.h
 fstream
 -
 
-C:/Users/Dr.Ahmed/Desktop/Graphics/Final_Project/main.cpp
+D:/BIOMEDICAL ENGINEERING/3rd/2nd semester/graphics/Graphics-Final_Project/main.cpp
 windows.h
 -
 GLUT/glut.h
@@ -54,7 +54,7 @@ fstream
 iostream
 -
 glm.h
-C:/Users/Dr.Ahmed/Desktop/Graphics/Final_Project/glm.h
+D:/BIOMEDICAL ENGINEERING/3rd/2nd semester/graphics/Graphics-Final_Project/glm.h
 imageloader.h
-C:/Users/Dr.Ahmed/Desktop/Graphics/Final_Project/imageloader.h
+D:/BIOMEDICAL ENGINEERING/3rd/2nd semester/graphics/Graphics-Final_Project/imageloader.h
 
