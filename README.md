@@ -1,10 +1,7 @@
 # Graphics Final_Project
-## Application Examples in Computer Graphics
-## Idea
-Make a Dental Clinic and our Robot is the Dentist
 
-* We make the Robot interact with Doctor Chair and Microscope 
-* User can change the floor using menu
+## The Biomedical Application
+Our idea is to make the OpenGL serves the 3D modeling in the VR field. So, we decided to make a room to be a simulation for a real Dental Clinic room. That can be uploaded (as future work) into a VR glasses. The customer who wants to see the clinic, its furniture, and dimensions can simply see that scene and move freely with tha camera to view the room from any angle he wants.
 
 ## Here is our Dental Clinic
 * with default floor
@@ -79,7 +76,8 @@ The last animation the Robotic Body interact with Microscope ,See the [Video](ht
 * To make Robotic body move together
 * To make Lightening work
 
-
+## Conclusion
+Our robot has many features and can do several moves like walking around everywhere in the scene, sitting on chairs, moving objects up and down. It can move his joints smoothly like elbow, shoulder, knee, and even his fingers. The scene looks like a clinic which will serve our idea as a biomedical application. Our scene is provided by the lightening properties which reflect the color of the objects and prevent the floor’s transparency. Mentioning the floor, we used the texture mapping to make the floor have a real appearance and through a right click, we can change the floor’s texture. We were able to add many objects in the scene which are somehow related to our biomedical application like a bed, dental chair, light, and microscope.
 
 
 
