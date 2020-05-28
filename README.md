@@ -100,15 +100,15 @@ The last animation the Robotic Body interact with Microscope ,See the [Video](ht
 
 
 ## About Us :
-### Team Number : 07
+### Group Id : 07
 ### Team Members :
 
-| Name | Section | B.N | Email |
-| :----: | :----: | :----: |  :----: |
-| Rawan Sayed | 1 | 30 | rawansayed2021@gmail.com
-| Sara Adel | 1 | 35 | sarahadel540@gmail.com 
-| Sara Mohamed | 1 | 36 | sara.mohamed277991@gmail.com 
-| Omar Abdelzaher | 2 | 11| omarzaher787@gmail.com
+| Name | Section | B.N | Seating Number | Email |
+| :----: | :----: | :----: |  :----: |  :----: |
+| Rawan Sayed | 1 | 30 |53030 | rawansayed2021@gmail.com
+| Sara Adel | 1 | 35 |53035 | sarahadel540@gmail.com 
+| Sara Mohamed | 1 | 36 |53036 | sara.mohamed277991@gmail.com 
+| Omar Abdelzaher | 2 | 11|53056 | omarzaher787@gmail.com
 
 ## Submitted To :
 ### Dr. Ayman Eldeib
